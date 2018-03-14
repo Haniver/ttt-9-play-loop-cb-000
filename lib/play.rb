@@ -36,7 +36,7 @@ def turn(board)
 end
 
 def play(board)
-  moves = 0
+  moves = 1
   while moves <= 9 do
     puts "movimiento: " + moves.to_s
     moves += 1
