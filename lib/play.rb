@@ -36,5 +36,10 @@ def turn(board)
 end
 
 def play(board)
-  
+  9.times do
+    puts "hola"
+  end
+end
+
+
 end
