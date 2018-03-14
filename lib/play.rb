@@ -42,6 +42,3 @@ def play(board)
     moves += 1
   end
 end
-
-
-end
