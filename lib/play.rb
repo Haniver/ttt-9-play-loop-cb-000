@@ -36,8 +36,10 @@ def turn(board)
 end
 
 def play(board)
-  9.times do
-    puts "hola"
+  moves = 0
+  while moves <= 9
+    puts "movimiento: " + moves
+    moves += 1
   end
 end
 
